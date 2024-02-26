@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(243, 230, 216);
+    font-size: 16px; /* Using a base font size in pixels */
+    font-family: Outfit;
+    margin:15%; /* Remove default body margin */
+    padding: 10px; /* Remove default body padding */
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.recipe-main {
+    background-color: rgb(255, 255, 255);
+    margin: 20px; /* Use smaller margin for better spacing on smaller screens */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.image-style img {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio of image */
+    border-radius: 10px;
+}
+
+.preperation-time {
+    background-color: hsl(329, 73%, 90%);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.preparation-time li {
+    padding: 5px;
+}
+
+ol, ul {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.5; /* Use relative line height for better readability */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.last {
+    border: none;
+}
+
+.cal {
+    font-size: 1.2rem; /* Use relative font size for better responsiveness */
+    color: rgb(133, 70, 50);
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .recipe-main {
+        margin: 0px; /* Adjust margin for smaller screens */
+        padding: 0px;
+    }
+}
+
+@media (max-width: 480px) {
+    .recipe-main {
+        margin: 0px; /* Further adjust margin for smaller screens */
+        padding: 0px;
+    }
+}
+.attribution{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom:0;
+}
