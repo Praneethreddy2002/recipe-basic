@@ -46,4 +46,4 @@ The table below shows nutritional values per serving without the additional fill
 
 ## Attribution
 
-Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge). Coded by Your Name Here.
+Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge). Coded by praneeth.
