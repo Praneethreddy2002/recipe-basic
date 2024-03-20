@@ -4,7 +4,7 @@ This is a simple recipe page for making a classic omelette. It includes the ingr
 
 ## Preview
 
-![Omelette Recipe](./assets/images/image-omelette.jpeg)
+![Omelette Recipe](https://resonant-marigold-82f5e6.netlify.app/)
 
 ## Description
 
